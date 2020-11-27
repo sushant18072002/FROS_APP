@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215838952722",
+    "firebase_url": "https://fros-app-d7cdb.firebaseio.com",
+    "project_id": "fros-app-d7cdb",
+    "storage_bucket": "fros-app-d7cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215838952722:android:0a11170f9b2d8f74be77cb",
+        "android_client_info": {
+          "package_name": "com.android.frosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215838952722-cq5vbghuvter6mi2v2tk6pbl86spmv2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.frosapp",
+            "certificate_hash": "f52c0f45627a6c35fd7a5af9ad7f9f126bec50ef"
+          }
+        },
+        {
+          "client_id": "215838952722-i46t31qvjmk1ien7rf1gehqeno9pl3id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8uZxRHehQrbgO-bDcboVp0XgbSNGk6OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215838952722-i46t31qvjmk1ien7rf1gehqeno9pl3id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">FROS</string>
+    <string name="title_activity_panic_activity">Panic_activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="username">Username</string>
+    <string name="username_edit">Phone no.</string>
+    <string name="Password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">login</string>
+    <string name="signup">Sign Up</string>
+    <string name="Login">Login</string>
+
+    <string name="Register">Register</string>
+    <string name="fname">First name</string>
+    <string name="lname">Last name</string>
+    <string name="email">example@abc.com</string>
+    <string name="password">Password</string>
+    <string name="con_password">Confirm password</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="button">Submit</string>
+    <string name="Phone_no">Phone number</string>
+    <string name="click">Next</string>
+    <string name="genera_otp">Generate OTP</string>
+    <string name="otp">xxxx</string>
+    <string name="title_activity_main_penic">MainPenicActivity</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="others">Others</string>
+    <string name="about_us">About Us</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="edit_profile_icon">edit_icon</string>
+    <string name="feedback">Feedback</string>
+
+    <string name="in_case_of_emergency_above_mentioned_contacts_will_be_notified">* In Case of emergency, above mentioned contacts will be notified.</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="name1">Name</string>
+    <string name="phone_no1">Phone No.</string>
+    <string name="address1">Address</string>
+    <string name="todo0">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="in_case_of_Emergency_above_mentioned_contacts_will_be_notified">*In case of Emergency, above mentioned contacts will be notified.</string>
+    <string name="submit">Submit</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="logout">Log out</string>
+
+    <string name="be_calm_but_cautious">Be Calm , but Cautious!</string>
+    <string name="we_are_sending_you_help_as_fast_as_possile">We are sending you HELP as Fast as possile!</string>
+    <string name="your_emergency_contacts_are_also_notified">Your Emergency Contacts are also Notified.</string>
+    <string name="if_possible_please_tell_nature_of_distress_and_kind_of_assistance_desired">If possible, please tell Nature of Distress and Kind of Assistance Desired?</string>
+    <string name="Reset_password">Reset Password</string>
+    <string name="timer">Timer</string>
+
+
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+</resources>
